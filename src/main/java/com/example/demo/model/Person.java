@@ -20,7 +20,7 @@ public class Person {
         return id;
     }
 
-    public java.lang.String getName() {
+    public String getName() {
         return name;
     }
 }
